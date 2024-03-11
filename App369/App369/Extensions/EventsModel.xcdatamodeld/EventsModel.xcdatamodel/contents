@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="22G513" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="EventsModel" representedClassName="EventsModel" syncable="YES" codeGenerationType="class">
+        <attribute name="evDate" optional="YES" attributeType="String"/>
+        <attribute name="evNotes" optional="YES" attributeType="String"/>
+        <attribute name="evTime" optional="YES" attributeType="String"/>
+        <attribute name="evTitle" optional="YES" attributeType="String"/>
+    </entity>
+</model>

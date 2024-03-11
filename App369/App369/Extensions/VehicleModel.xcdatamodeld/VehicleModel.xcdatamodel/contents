@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="22G513" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="VehicleModel" representedClassName="VehicleModel" syncable="YES" codeGenerationType="class">
+        <attribute name="vCost" optional="YES" attributeType="String"/>
+        <attribute name="vDate" optional="YES" attributeType="String"/>
+        <attribute name="vNote" optional="YES" attributeType="String"/>
+        <attribute name="vTitle" optional="YES" attributeType="String"/>
+    </entity>
+</model>
